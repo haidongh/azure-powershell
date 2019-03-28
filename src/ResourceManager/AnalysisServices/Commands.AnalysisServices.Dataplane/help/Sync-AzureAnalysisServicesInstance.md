@@ -128,4 +128,6 @@ Parameters: Database (ByValue), Instance (ByValue)
 
 Alias: Sync-AzureAsInstance
 
+This command is synchronous. It means the command will not return until the sync operation has completed.
+
 ## RELATED LINKS
