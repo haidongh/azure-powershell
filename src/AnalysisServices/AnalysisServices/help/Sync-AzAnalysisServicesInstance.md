@@ -127,4 +127,5 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 Alias: Sync-AzAsInstance
 
+This command is synchronous. It means the command will not return until the sync operation has completed.
 ## RELATED LINKS
